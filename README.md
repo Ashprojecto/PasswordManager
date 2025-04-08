@@ -19,7 +19,6 @@ A secure, full-stack password manager built with the **MERN stack** (Express, Re
 
 ## ⚙️ Features
 
-- ✅ User Authentication (Register / Login / Logout)
 
 - 📁 Create, Read, Update, Delete credentials
 
